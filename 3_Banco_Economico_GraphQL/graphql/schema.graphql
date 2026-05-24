@@ -1,0 +1,21 @@
+type Query {
+    "Buscar y retornar una cuenta bancaria específica mediante su número"
+    cuenta(cuenta: String! @eq): Cuenta @find
+}
+
+type Mutation {
+    "Modificar el saldo actual de una cuenta por completo"
+    actualizarSaldo(
+        cuenta: String! @rules(apply: ["required"])
+        saldo: Float! @rules(apply: ["required", "numeric", "min:0"])
+    ): Cuenta @update
+}
+
+"Definición exacta del recurso Cuenta para la respuesta GraphQL"
+type Cuenta {
+    cuenta: String!
+    ci: String!
+    nombres: String!
+    apellidos: String!
+    saldo: Float!
+}

@@ -1,0 +1,13 @@
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\bin\Debug\Comercio2_App.exe.config
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\bin\Debug\Comercio2_App.exe
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\bin\Debug\Comercio2_App.pdb
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\bin\Debug\Newtonsoft.Json.dll
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\bin\Debug\Newtonsoft.Json.xml
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\obj\Debug\Comercio2_App.csproj.AssemblyReference.cache
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\obj\Debug\Comercio2_App.Form1.resources
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\obj\Debug\Comercio2_App.Properties.Resources.resources
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\obj\Debug\Comercio2_App.csproj.GenerateResource.cache
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\obj\Debug\Comercio2_App.csproj.CoreCompileInputs.cache
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\obj\Debug\Comercio.7399659E.Up2Date
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\obj\Debug\Comercio2_App.exe
+D:\2026\DISTRIBUIDAS-2026\Practica_Segundo_Parcial\6_Comercio2_Escritorio\Comercio2_App\Comercio2_App\obj\Debug\Comercio2_App.pdb

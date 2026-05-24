@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comercio 1 - Pasarela de Pagos</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f4f6f9; margin: 0; padding: 20px; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+        .card { background: white; padding: 30px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); width: 100%; max-width: 450px; }
+        h2 { text-align: center; color: #333; margin-bottom: 24px; }
+        .form-group { margin-bottom: 16px; }
+        label { display: block; margin-bottom: 6px; color: #555; font-weight: 600; }
+        input { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 6px; box-sizing: border-box; font-size: 14px; }
+        button { width: 100%; padding: 12px; background: #007bff; color: white; border: none; border-radius: 6px; font-size: 16px; cursor: pointer; font-weight: bold; transition: background 0.2s; }
+        button:hover { background: #0056b3; }
+        .btn-logout { background: #dc3545; margin-top: 15px; }
+        .btn-logout:hover { background: #c82333; }
+        .hidden { display: none; }
+        .alert { padding: 12px; border-radius: 6px; margin-bottom: 15px; font-size: 14px; display: none; }
+        .alert-error { background: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+        .alert-success { background: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+    </style>
+</head>
+<body>
+
+    <div id="section-login" class="card">
+        <h2>🔐 Acceso Comercio 1</h2>
+        <div id="login-error" class="alert alert-error"></div>
+        <form id="form-login">
+            <div class="form-group">
+                <label>Correo Electrónico:</label>
+                <input type="email" id="email" value="comercio1@gmail.com" required>
+            </div>
+            <div class="form-group">
+                <label>Contraseña:</label>
+                <input type="password" id="password" value="comercio123" required>
+            </div>
+            <button type="submit">Iniciar Sesión</button>
+        </form>
+    </div>
+
+    <div id="section-dashboard" class="card hidden">
+        <h2>💸 Procesar Transacción</h2>
+        <div id="tx-alert" class="alert"></div>
+        <form id="form-transaccion">
+            <div class="form-group">
+                <label>Cuenta Origen:</label>
+                <input type="text" id="cuenta_origen" placeholder="Ej: 11122233" required>
+            </div>
+            <div class="form-group">
+                <label>Cuenta Destino:</label>
+                <input type="text" id="cuenta_destino" placeholder="Ej: 200-555666" required>
+            </div>
+            <div class="form-group">
+                <label>Monto a Transferir (Bs):</label>
+                <input type="number" id="monto" min="1" step="0.01" placeholder="0.00" required>
+            </div>
+            <button type="submit">Enviar al Intermediador</button>
+        </form>
+        <button id="btn-logout" class="btn-logout">Cerrar Sesión</button>
+    </div>
+
+    <script src="dashboard.js"></script>
+</body>
+</html>
