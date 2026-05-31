@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\2026\\DISTRIBUIDAS-2026\\Practica_Segundo_Parcial\\6_Comercio2_Escritorio\\Comercio2_App\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67FCA0A9-E5DA-423B-BC2B-E7D42106276B}|Comercio2_App\\Comercio2_App.csproj|d:\\2026\\distribuidas-2026\\practica_segundo_parcial\\6_comercio2_escritorio\\comercio2_app\\comercio2_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{67FCA0A9-E5DA-423B-BC2B-E7D42106276B}|Comercio2_App\\Comercio2_App.csproj|solutionrelative:comercio2_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67FCA0A9-E5DA-423B-BC2B-E7D42106276B}|Comercio2_App\\Comercio2_App.csproj|D:\\2026\\DISTRIBUIDAS-2026\\Practica_Segundo_Parcial\\6_Comercio2_Escritorio\\Comercio2_App\\comercio2_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67FCA0A9-E5DA-423B-BC2B-E7D42106276B}|Comercio2_App\\Comercio2_App.csproj|solutionrelative:comercio2_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67FCA0A9-E5DA-423B-BC2B-E7D42106276B}|Comercio2_App\\Comercio2_App.csproj|d:\\2026\\distribuidas-2026\\practica_segundo_parcial\\6_comercio2_escritorio\\comercio2_app\\comercio2_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{67FCA0A9-E5DA-423B-BC2B-E7D42106276B}|Comercio2_App\\Comercio2_App.csproj|solutionrelative:comercio2_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{67FCA0A9-E5DA-423B-BC2B-E7D42106276B}|Comercio2_App\\Comercio2_App.csproj|d:\\2026\\distribuidas-2026\\practica_segundo_parcial\\6_comercio2_escritorio\\comercio2_app\\comercio2_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67FCA0A9-E5DA-423B-BC2B-E7D42106276B}|Comercio2_App\\Comercio2_App.csproj|solutionrelative:comercio2_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,25 +21,21 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\2026\\DISTRIBUIDAS-2026\\Practica_Segundo_Parcial\\6_Comercio2_Escritorio\\Comercio2_App\\Comercio2_App\\Form1.cs",
               "RelativeDocumentMoniker": "Comercio2_App\\Form1.cs",
               "ToolTip": "D:\\2026\\DISTRIBUIDAS-2026\\Practica_Segundo_Parcial\\6_Comercio2_Escritorio\\Comercio2_App\\Comercio2_App\\Form1.cs",
               "RelativeToolTip": "Comercio2_App\\Form1.cs",
-              "ViewState": "AgIAAHEAAAAAAAAAAAAowH8AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-23T22:49:48.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\2026\\DISTRIBUIDAS-2026\\Practica_Segundo_Parcial\\6_Comercio2_Escritorio\\Comercio2_App\\Comercio2_App\\Form1.cs",
               "RelativeDocumentMoniker": "Comercio2_App\\Form1.cs",

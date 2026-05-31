@@ -18,7 +18,7 @@ class CuentaFactory extends Factory
     public function definition(): array
     {
         return [
-            'cuenta' => $this->faker->unique()->bankAccountNumber(),
+            'cuenta' => $this->faker->unique()->numerify('111-######'),
             'ci' => $this->faker->randomNumber(8, true),
             'nombres' => $this->faker->firstName(),
             'apellidos' => $this->faker->lastName(),

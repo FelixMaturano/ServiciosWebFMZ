@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2026\\DISTRIBUIDAS-2026\\Practica_Segundo_Parcial\\4_Banco_Economico_SOAP\\9_Banco_Economico_SOAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{453675E9-2C6F-4671-BC6F-AE62A08D7B03}|9_Banco_Economico_SOAP.csproj|d:\\2026\\distribuidas-2026\\practica_segundo_parcial\\4_banco_economico_soap\\9_banco_economico_soap\\bancoeconomicoservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453675E9-2C6F-4671-BC6F-AE62A08D7B03}|9_Banco_Economico_SOAP.csproj|solutionrelative:bancoeconomicoservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{453675E9-2C6F-4671-BC6F-AE62A08D7B03}|9_Banco_Economico_SOAP.csproj|d:\\2026\\distribuidas-2026\\practica_segundo_parcial\\4_banco_economico_soap\\9_banco_economico_soap\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{453675E9-2C6F-4671-BC6F-AE62A08D7B03}|9_Banco_Economico_SOAP.csproj|solutionrelative:movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BancoEconomicoService.asmx.cs",
+              "DocumentMoniker": "D:\\2026\\DISTRIBUIDAS-2026\\Practica_Segundo_Parcial\\4_Banco_Economico_SOAP\\9_Banco_Economico_SOAP\\BancoEconomicoService.asmx.cs",
+              "RelativeDocumentMoniker": "BancoEconomicoService.asmx.cs",
+              "ToolTip": "D:\\2026\\DISTRIBUIDAS-2026\\Practica_Segundo_Parcial\\4_Banco_Economico_SOAP\\9_Banco_Economico_SOAP\\BancoEconomicoService.asmx.cs",
+              "RelativeToolTip": "BancoEconomicoService.asmx.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:38:41.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "D:\\2026\\DISTRIBUIDAS-2026\\Practica_Segundo_Parcial\\4_Banco_Economico_SOAP\\9_Banco_Economico_SOAP\\Movimiento.cs",
+              "RelativeDocumentMoniker": "Movimiento.cs",
+              "ToolTip": "D:\\2026\\DISTRIBUIDAS-2026\\Practica_Segundo_Parcial\\4_Banco_Economico_SOAP\\9_Banco_Economico_SOAP\\Movimiento.cs",
+              "RelativeToolTip": "Movimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:36:32.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
